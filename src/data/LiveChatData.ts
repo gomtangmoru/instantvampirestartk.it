@@ -16,6 +16,10 @@ const LiveChatData: LiveChatDataInterface[] = [
     phone: '88**',
     message: '아이 술안주로 최고!',
   },
+  {
+    phone: '93**',
+    message: '에너지드링크 대체용으로 최고에요!'
+  }
 ];
 
 export default LiveChatData;
